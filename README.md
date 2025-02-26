@@ -9,6 +9,6 @@ El programa compara variables numéricas y de tipo string para verificar:
 - Si tienen el mismo valor y el mismo tipo.
 
 
-Creado por [Tu Nombre](https://github.com/lezamairilis).
+Creado por Irilis Lezama (https://github.com/lezamairilis).
 
 
